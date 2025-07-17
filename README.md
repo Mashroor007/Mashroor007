@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Junayer Mashroor Mahin</h1>
-<h3 align="center">A passionate frontend developer from Bangladesh</h3>
+<h3 align="center">A passionate Data Analyst from Bangladesh</h3>
 
 - 📫 How to reach me **mashroor.mahinn@gmail.com**
 
